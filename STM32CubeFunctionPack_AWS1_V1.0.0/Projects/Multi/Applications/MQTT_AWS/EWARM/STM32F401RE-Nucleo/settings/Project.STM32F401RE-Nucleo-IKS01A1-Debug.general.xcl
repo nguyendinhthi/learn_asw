@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\arm\bin\armstlink2.dll" 
+
+"D:\ANH\en.fp-cld-aws1\STM32CubeFunctionPack_AWS1_V1.0.0\Projects\Multi\Applications\MQTT_AWS\EWARM\STM32F401RE-Nucleo\STM32F401RE-Nucleo-IKS01A1-Debug\Exe\Project.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\arm\config\flashloader\ST\FlashSTM32F401xE.board" 
+
+
+
+

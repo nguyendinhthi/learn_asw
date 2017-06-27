@@ -1,0 +1,3138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>2</fileVersion>
+    <fileChecksum>1940322484</fileChecksum>
+    <configuration>
+        <name>STM32F401RE-Nucleo-IKS01A1-Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\hts221\HTS221_Driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\readme.txt</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps22hb\LPS22HB_Driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\hts221\HTS221_Driver.c</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cec.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow_records.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\croutine.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\event_groups.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\list.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\queue.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\tasks.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\portable\MemMang\heap_4.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\portable\IAR\ARM_CM4F\port.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\timers.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\portable\IAR\ARM_CM4F\portasm.s</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Exe\Project.out</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\timers.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\queue.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow_actions.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\list.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\croutine.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\port.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\cmsis_os.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Exe\Project.bin</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\event_groups.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\tasks.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\Project.pbd</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow_json.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow_records.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\heap_4.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dac_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_eth.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_flash_ramfunc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_gpio.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2c_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2s.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_adc_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dma.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_flash_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_crc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dcmi.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dma2d.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_hash_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_fmpi2c.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\system_stm32f4xx.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dac.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_can.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cryp_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cortex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_adc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dma_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cryp.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_nand.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_fmpi2c_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_flash.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cec.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_hash.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_hcd.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2c.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dcmi_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_iwdg.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sram.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rtc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pcd.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rtc_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pccard.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sd.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_smartcard.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pwr_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_tim.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_uart.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_usart.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sai_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2s_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sdram.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_wwdg.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_fmc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_ltdc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_irda.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sai.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_tim_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rng.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pcd_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_msp_template.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_qspi.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rcc_ex.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_spi.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pwr.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_spdifrx.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rcc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_nor.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\time_nucleo_wrapper.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\event_buffer.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_interface.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_module.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\sensors_data.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32_xx_hal_msp.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_sdmmc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\freertos_main.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_nucleo_certificates.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\network_nucleo_wrapper.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\sub_pub_nucleo.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\ring_buffer.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_common_internal.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_json_utils.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\healthparameter.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_publish.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_usb.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\app_wifi_read.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_subscribe.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_unsubscribe.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_yield.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\console.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_fsmc.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\user_button.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32_xx_it.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_main.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\jsmn.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_connect.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\main.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_globals.pbi</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cryp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_fmpi2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_hash.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_hcd.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cec.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_fmpi2c_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cryp_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dac_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ramfunc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dcmi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2s.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2s_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma2d.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dac.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_irda.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_iwdg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_ltdc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_crc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dcmi_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_hash_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_eth.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_can.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps22hb\LPS22HB_Driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_MAG_driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_MAG_driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_humidity.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_ACC_driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_ACC_driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds0\LSM6DS0_ACC_GYRO_driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_accelero.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A2\x_nucleo_iks01a2_pressure.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6dsl\LSM6DSL_ACC_GYRO_driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds0\LSM6DS0_ACC_GYRO_driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6dsl\LSM6DSL_ACC_GYRO_driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_pressure.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A2\x_nucleo_iks01a2_temperature.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\STM32F4xx-Nucleo\stm32f4xx_nucleo.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A2\x_nucleo_iks01a2_gyro.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X-NUCLEO-IDW01M1\stm32_spwf_wifi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_gyro.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_magneto.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A2\x_nucleo_iks01a2_accelero.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A2\x_nucleo_iks01a2.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A2\x_nucleo_iks01a2_humidity.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A2\x_nucleo_iks01a2_magneto.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver_HL.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_temperature.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_qspi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sram.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_fmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_fsmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_sdmmc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sai.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_msp_template.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pccard.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rtc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rtc_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_smartcard.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sai_ex.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_wwdg.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_nor.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sdram.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sd.c</file>
+            <file>$PROJ_DIR$\startup_stm32f401xe.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_nand.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rng.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spdifrx.c</file>
+            <file>$PROJ_DIR$\..\..\Src\console.c</file>
+            <file>$PROJ_DIR$\..\..\Src\stm32_xx_it.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\samples\nucleo\sub_pub\sub_pub_nucleo.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\external_libs\jsmn\jsmn.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\event_buffer.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_json_utils.c</file>
+            <file>$PROJ_DIR$\..\..\Src\healthparameter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_publish.c</file>
+            <file>$PROJ_DIR$\..\..\Src\sensors_data.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\wifi_module.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_subscribe.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow_actions.c</file>
+            <file>$PROJ_DIR$\..\..\Src\wifi_main.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_unsubscribe.c</file>
+            <file>$PROJ_DIR$\..\..\Src\stm32_xx_hal_msp.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_connect.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow_json.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_common_internal.c</file>
+            <file>$PROJ_DIR$\..\..\Src\main.c</file>
+            <file>$PROJ_DIR$\..\..\Src\app_wifi_read.c</file>
+            <file>$PROJ_DIR$\..\..\Src\freertos_main.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\wifi_globals.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\wifi_interface.c</file>
+            <file>$PROJ_DIR$\..\..\Src\user_button.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\aws_nucleo_certificates.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\time_nucleo_wrapper.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_yield.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\network_nucleo_wrapper.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\ring_buffer.c</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS25HB_Driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_ACC_driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_ACC_driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS22HB_Driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS25HB_Driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_pressure.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_temperature.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\HTS221_Driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LIS3MDL_MAG_driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS22HB_Driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LIS3MDL_MAG_driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\HTS221_Driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_pressure.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_temperature.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_MAG_driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS3_ACC_GYRO_driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_nucleo.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_adc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\system_stm32f4xx.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS0_ACC_GYRO_driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cortex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32_spwf_wifi.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_adc_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_can.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DSL_ACC_GYRO_driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_crc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_MAG_driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS3_ACC_GYRO_driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_gyro.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DSL_ACC_GYRO_driver.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_accelero.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_humidity.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS0_ACC_GYRO_driver_HL.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_magneto.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_spdifrx.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\sensors_data.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rtc_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sai.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sdram.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_smartcard.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sram.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_usart.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_usb.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rcc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_tim_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_sdmmc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pwr.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_fsmc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_spi.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\app_wifi_read.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pcd_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rcc_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rtc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_rng.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_tim.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pwr_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_uart.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sai_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_sd.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\console.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\freertos_main.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_wwdg.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_ll_fmc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\healthparameter.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_qspi.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32_xx_hal_msp.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_module.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\jsmn.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow_json.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\croutine.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_yield.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\time_nucleo_wrapper.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_connect.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\user_button.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_globals.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_json_utils.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32_xx_it.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_unsubscribe.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_publish.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_main.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\wifi_interface.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\network_nucleo_wrapper.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow_actions.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\event_groups.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\heap_4.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\list.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\port.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\event_buffer.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\ring_buffer.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_common_internal.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_nucleo_certificates.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_mqtt_client_subscribe.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\aws_iot_shadow_records.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\sub_pub_nucleo.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\cmsis_os.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS22HB_Driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32_spwf_wifi.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_accelero.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS3_ACC_GYRO_driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_gyro.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_magneto.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\portasm.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_ACC_driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_MAG_driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\HTS221_Driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_ACC_driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM303AGR_MAG_driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS25HB_Driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS3_ACC_GYRO_driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DSL_ACC_GYRO_driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DSL_ACC_GYRO_driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_nucleo.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\queue.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\tasks.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\startup_stm32f401xe.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\HTS221_Driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS22HB_Driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LPS25HB_Driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS0_ACC_GYRO_driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1_humidity.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LIS3MDL_MAG_driver.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LIS3MDL_MAG_driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\timers.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\x_nucleo_iks01a1.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\LSM6DS0_ACC_GYRO_driver_HL.pbi</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_fmpi2c_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dac.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_gpio.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2s.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dcmi.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dma_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_hash.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_iwdg.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_ltdc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_nand.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_flash_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_nor.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pccard.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_eth.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dma2d.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_flash.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_hcd.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2c.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cryp_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dma.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_flash_ramfunc.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_fmpi2c.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2c_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_i2s_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_msp_template.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_cryp.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_pcd.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dcmi_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_hash_ex.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_irda.o</file>
+            <file>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Obj\stm32f4xx_hal_dac_ex.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_MAG_driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds0\LSM6DS0_ACC_GYRO_driver.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\temperature.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\component.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\hts221\HTS221_Driver_HL.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\humidity.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\sensor.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\hts221\HTS221_Driver.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds0\LSM6DS0_ACC_GYRO_driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\gyroscope.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\magnetometer.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps22hb\LPS22HB_Driver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\pressure.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps22hb\LPS22HB_Driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\Common\accelerometer.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_ACC_driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_MAG_driver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_ACC_driver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6dsl\LSM6DSL_ACC_GYRO_driver.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6dsl\LSM6DSL_ACC_GYRO_driver_HL.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_cortex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_i2c_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f401xe.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\STM32F4xx-Nucleo\stm32f4xx_nucleo.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\stm32f4xx_hal_conf.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\mxconstants.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rtc_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_usart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_adc_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_i2c.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h</file>
+            <file>$TOOLKIT_DIR$\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_adc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_spi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Inc\wifi_module.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Inc\wifi_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\event_buffer.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X-NUCLEO-IDW01M1\stm32_spwf_wifi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\ring_buffer.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\wifi_globals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Inc\wifi_const.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_gyro.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_accelero.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_humidity.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_magneto.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_temperature.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_pressure.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\healthparameter.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_mqtt_client_common_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_json_utils.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\semphr.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_error.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\mpu_wrappers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\list.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\task.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\samples\nucleo\sub_pub\sub_pub_nucleo.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\event_groups.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\portable.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\deprecated_definitions.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\timers.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\FreeRTOSConfig.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\FreeRTOS.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\queue.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\projdefs.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\portable\IAR\ARM_CM4F\portmacro.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\user_button.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\sensors_data.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\wifi_main.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\freertos_main.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\version.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\main.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\stm32_xx_it.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\external_libs\jsmn\jsmn.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\samples\nucleo\sub_pub\aws_iot_config.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\network_platform.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\timer_platform.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\timer_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_log.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\network_interface.h</file>
+            <file>$PROJ_DIR$\..\..\Inc\app_wifi_read.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_version.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_mqtt_client_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_mqtt_client.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\inttypes.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_shadow_actions.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_shadow_json.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_shadow_interface.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_shadow_key.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_shadow_json_data.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\include\aws_iot_shadow_records.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\croutine.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\include\StackMacros.h</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 18</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\hts221\HTS221_Driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 264</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 362</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 425 424 432 422 416 417 418 431 423 419 421 427 420 429 430 426</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 261</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 378</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 426 429 430 444 431</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 263</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 379</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 431 418 423 444 424 426 422 416 436 420 425 432 437 429 430</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps22hb\LPS22HB_Driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 256</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 353</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 429 430 438 426 431</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\hts221\HTS221_Driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 260</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 373</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 425 432 428 431 427 426 429 430</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow_records.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 350</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 537 542 425 431 432 505 426 430 518 515 428 545 546 548 507 535 429 521 492 420 536 531 532 541 467 522 508 464 510 549 533 534 516 517 513 514 509 423 530 494 550</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\croutine.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 325</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 23</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 429 425 431 426 464 521 430 432 514 510 515 517 513 467 522 508 518 551 509</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\event_groups.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 340</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 28</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 464 513 516 429 515 518 430 517 431 510 512 425 494 426 521 514 509 492 467 522 508</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\list.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 343</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 467 431 521 509 425 494 426 522 508 518 429 430 515 517 513 492 514 464</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\queue.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 370</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 20</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 464 510 513 432 431 515 420 518 519 425 494 517 426 514 509 492 429 430 423 521 467 522 508</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\tasks.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 371</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 430 521 431 510 425 467 522 508 552 429 423 426 420 518 516 494 515 517 513 514 464 492 509</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\portable\MemMang\heap_4.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 342</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 517 430 518 429 515 513 431 510 425 494 426 521 467 522 508 492 514 464 509</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\portable\IAR\ARM_CM4F\port.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 344</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 522 432 515 467 508 510 513 518 429 517 431 464 430 426 521 425 514 509</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 352</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 26</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 431 506 423 432 519 425 518 521 520 429 430 515 516 426 467 522 508 464 509 420 510 512 517 513 514</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\timers.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 380</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 429 432 519 521 431 518 430 467 522 508 510 516 425 494 426 492 515 517 513 514 464 509</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\FreeRTOS\Source\portable\IAR\ARM_CM4F\portasm.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 359</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\STM32F401RE-Nucleo-IKS01A1-Debug\Exe\Project.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cryp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 408</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 274</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 478 473 462 458 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_fmpi2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 404</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 385</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 462 458 478 473 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_hash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 389</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_hcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 399</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 400</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 457 432 459 431 456 426 462 458 464 425 461 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 482 429 430 471 483 460 451 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cec.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 402</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 478 473 462 458 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_fmpi2c_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 383</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 276</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 40</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 462 458 478 473 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cryp_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 401</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dac_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 413</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 34</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 398</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 462 458 463 478 473 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ramfunc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 403</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 455 426 468 463 476 470 478 473 466 453 474 486 467 452 454 484 479 485 477 475 481 428 480 482 483 472 456 462 457 458 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 271</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 478 473 462 458 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2c_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 405</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 457 478 473 456 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dcmi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 387</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 44</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2s.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 386</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_i2s_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 406</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 388</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 462 458 478 473 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma2d.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 397</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 45</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dac.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 384</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_irda.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 412</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_iwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 390</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_ltdc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 391</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_crc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 279</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dcmi_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 410</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 393</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 462 458 478 473 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_hash_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 411</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_eth.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 396</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_can.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 277</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps22hb\LPS22HB_Driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 262</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 374</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 438 420 426 431 439 432 429 430 416 417 424 418 425 423 422 440</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_MAG_driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 267</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 361</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 426 429 430 443 431</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_MAG_driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 280</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 364</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 420 431 436 432 426 422 416 443 424 418 425 423 414 429 430</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_humidity.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 286</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 377</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 454 418 480 423 477 432 463 419 417 431 434 467 479 481 424 425 439 452 484 485 475 428 426 461 496 421 427 420 457 466 453 455 474 476 486 468 470 482 464 459 460 451 499 429 430 441 436 456 462 458 471 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_ACC_driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 255</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 360</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 424 432 441 425 418 431 423 426 416 447 420 429 430 422 442</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm303agr\LSM303AGR_ACC_driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 254</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 363</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 426 432 429 430 447 431</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds0\LSM6DS0_ACC_GYRO_driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 273</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 376</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 426 429 430 415 431</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_accelero.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 285</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 355</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 425 417 456 432 463 415 424 441 457 431 448 418 423 435 436 462 458 426 461 433 496 434 420 429 430 421 439 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 482 464 459 460 451 498 471 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6dsl\LSM6DSL_ACC_GYRO_driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 278</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 368</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 430 441 429 431 426 449 420 416 434 424 418 425 423 422 450</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds0\LSM6DS0_ACC_GYRO_driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 287</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 382</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 431 441 418 423 432 426 415 424 425 422 416 434 420 429 430 433</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6dsl\LSM6DSL_ACC_GYRO_driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 284</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 367</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 426 429 430 449 431</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_pressure.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 265</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 258</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 445 439 468 463 431 455 426 496 424 421 476 470 425 460 418 423 457 466 453 474 486 482 464 459 446 432 438 434 467 452 454 484 479 485 477 475 481 428 480 461 440 417 420 429 430 441 436 456 462 458 471 483 478 469 472 473 451 502</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 272</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 431 426 429 454 463 477 478 473 467 479 481 480 430 471 452 484 485 475 428 483 472 462 457 458 482 466 453 455 474 476 486 468 470 432 469 464 456 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 253</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 365</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 429 431 432 428 430 445 426 425</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 257</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 375</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 417 420 426 422 416 432 429 430 431 446 439 445 424 418 425 423</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\STM32F4xx-Nucleo\stm32f4xx_nucleo.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 269</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 369</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 462 458 425 463 432 464 461 457 456 426 431 459 460 451 465 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 482 429 430 471 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 283</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 381</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 457 441 432 417 456 464 461 436 462 458 425 426 424 434 421 439 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 431 459 460 451 420 496 480 482 429 430 471 483 478 469 472 473 418 423</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X-NUCLEO-IDW01M1\stm32_spwf_wifi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 275</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 354</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 426 479 431 467 481 463 454 477 480 430 471 432 489 452 484 485 475 428 429 469 492 493 495 465 466 453 455 474 476 486 468 470 482 483 478 472 473 457 420 425 490 488 491 456 462 458 464 459 461 460 451 487 423 494</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 270</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 452 428 485 463 484 475 478 473 467 454 479 477 481 480 466 453 455 474 476 486 468 470 426 482 483 472 456 462 457 458 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_gyro.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 282</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 357</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 481 434 448 467 479 463 454 477 480 432 420 426 439 452 484 485 475 428 431 429 430 457 421 466 453 455 474 476 486 468 470 482 464 461 424 433 496 441 415 418 425 423 435 436 417 456 462 458 471 459 460 451 497 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_magneto.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 288</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 358</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 430 473 478 463 432 462 458 424 436 471 437 429 431 483 472 420 426 441 417 456 457 469 500 496 444 418 425 423 434 421 439 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 482 464 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 268</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 366</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 431 426 432 429 430 435</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver_HL.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 281</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 356</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 422 441 420 426 435 432 429 430 431 416 434 424 418 425 423 448</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\BSP\X_NUCLEO_IKS01A1\x_nucleo_iks01a1_temperature.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 266</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 259</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 428 439 463 445 452 426 429 431 485 461 419 432 438 484 475 427 430 434 467 454 479 477 481 480 424 440 421 420 457 466 453 455 474 476 486 468 470 482 464 425 459 460 446 496 417 418 423 441 436 456 462 458 471 483 478 469 472 473 501 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_qspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 320</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sram.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 296</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 300</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 478 473 462 458 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 312</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 462 458 426 460 456 457 432 431 459 451 503 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 464 425 461 482 429 430 471 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_fmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 318</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_fsmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 303</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 119</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 409</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 307</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 486 453 463 466 474 478 473 455 476 468 470 426 467 452 454 484 479 485 477 475 481 428 480 482 483 472 456 462 457 458 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 311</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 475 484 463 452 485 428 478 473 467 454 479 477 481 480 466 453 455 474 476 486 468 470 426 482 483 472 456 462 457 458 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_sdmmc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 301</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 103</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_ll_usb.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 298</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 113</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pcd_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 306</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sai.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 293</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_msp_template.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 407</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pccard.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 395</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rtc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 308</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 470 476 463 455 468 426 478 473 466 453 474 486 467 452 454 484 479 485 477 475 481 428 480 482 483 472 456 462 457 458 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rtc_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 292</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 478 473 462 458 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_smartcard.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 295</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 297</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 457 478 473 456 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sai_ex.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 313</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_wwdg.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 317</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_nor.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 394</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 299</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 466 474 463 453 486 478 473 455 476 468 470 426 467 452 454 484 479 485 477 475 481 428 480 482 483 472 456 462 457 458 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sdram.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 294</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_sd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 314</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\startup_stm32f401xe.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 372</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 310</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 462 458 425 463 432 464 461 456 457 426 431 459 460 451 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 482 429 430 471 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 302</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 462 458 463 478 473 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_nand.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 392</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rng.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 309</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 304</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 486 453 463 466 474 478 473 455 476 468 470 426 467 452 454 484 479 485 477 475 481 428 480 482 483 472 456 462 457 458 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_spdifrx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 290</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 456 478 473 457 462 458 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\console.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 315</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 118</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 452 428 431 432 485 463 430 484 475 478 473 429 467 454 479 477 481 480 426 471 466 453 455 474 476 486 468 470 483 472 492 457 425 494 456 462 458 482 469 464 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\stm32_xx_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 333</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 121</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 467 432 481 479 426 517 464 488 430 454 477 480 483 472 522 420 457 526 429 452 484 485 475 428 431 471 478 463 473 489 506 508 519 487 520 523 466 453 455 474 476 486 468 470 482 469 492 425 518 529 490 491 465 525 524 456 462 458 459 461 460 451 495 423 515 516 513 509 528 494 510 512 521 514</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\samples\nucleo\sub_pub\sub_pub_nucleo.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 351</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 107</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 524 431 426 537 540 432 532 535 531 429 430 423 425 428 515 533 420 536 541 511 518 521 467 522 508 464 510 494 507 539 534 516 517 513 514 509 492 542</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\external_libs\jsmn\jsmn.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 323</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 123</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 430 432 429 431 530 425 492 494 515</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\event_buffer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 345</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 454 463 480 431 477 432 426 467 479 481 493 423 489 452 484 485 475 428 461 429 430 487 425 495 465 466 453 455 474 476 486 468 470 482 464 459 460 451 492 494 420 490 488 491 457 456 462 458 471 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_json_utils.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 331</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 110</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 431 426 420 532 515 423 492 507 425 428 543 536 530 429 430 505 494</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\healthparameter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 319</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 111</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 431 429 432 430 426</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 332</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 428 432 429 515 509 430 537 431 507 535 521 492 532 531 426 518 467 522 508 541 425 494 542 533 534 516 517 513 514 464 510 536</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_publish.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 335</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 112</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 464 426 432 507 522 541 425 428 532 508 510 420 535 467 515 536 431 494 542 537 518 521 504 429 430 423 492 531 533 534 516 517 513 514 509</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\sensors_data.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 291</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 463 436 424 434 501 425 478 473 433 438 498 462 458 471 496 500 431 441 417 456 457 483 472 435 421 428 497 499 502 429 430 439 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 480 426 482 464 469 418 423 419 427 446 440 459 461 460 451 420 448 415 437 444 445</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\wifi_module.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 322</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 464 472 432 483 495 457 462 458 492 489 452 463 456 426 478 473 420 425 494 493 490 488 491 465 481 466 467 453 454 455 484 474 479 476 485 486 477 468 475 470 428 480 482 431 429 430 471 469 487 459 461 460 451 423</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_subscribe.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 349</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 115</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 464 426 432 507 522 541 425 428 532 508 510 420 535 467 515 536 431 494 542 537 518 521 504 429 430 423 492 531 533 534 516 517 513 514 509</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 341</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 24</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 426 464 542 425 522 544 428 532 508 510 431 546 432 531 507 547 535 467 536 545 549 515 537 429 430 518 521 548 494 541 533 534 516 517 513 514 509 492 550</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow_actions.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 339</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 21</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 531 509 425 550 507 431 432 428 535 545 541 426 542 532 517 515 494 536 549 546 548 537 429 430 533 534 516 513 514 544 518 521 467 522 508 464 510 492</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\wifi_main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 336</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 122</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 454 477 463 431 467 479 481 460 425 423 452 484 485 475 432 457 466 453 455 474 476 486 468 462 458 464 459 451 420 488 429 430 456 426 461 428 470 480 482 471 483 478 469 472 473</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_unsubscribe.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 334</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 116</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 507 428 541 425 535 467 426 432 532 522 508 464 510 420 431 494 542 537 518 521 515 536 429 430 423 492 531 533 534 516 517 513 514 509 504</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\stm32_xx_hal_msp.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 321</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 426 455 488 523 468 463 452 428 476 470 466 453 474 486 482 469 492 432 489 493 457 526 429 430 467 454 484 479 485 477 475 481 480 431 471 483 478 472 473 490 491 420 487 465 525 524 425 456 462 458 464 459 461 460 451 495 423 528 494</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_connect.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 328</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 124</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 518 531 515 425 537 432 426 431 535 521 532 492 504 428 507 429 430 467 522 508 464 510 536 423 541 533 534 516 517 513 514 509 542 420 494</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_shadow_json.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 324</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 423 426 432 505 507 431 532 547 420 543 536 531 550 548 515 425 492 545 429 430 530 428 494</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_common_internal.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 347</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 109</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 521 426 431 535 432 537 518 507 503 428 429 430 532 467 522 508 464 510 541 425 504 515 531 533 534 516 517 513 514 509 420 494 542 536 423 492</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 289</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 125</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 460 426 463 462 458 524 528 456 457 432 431 459 451 481 468 527 466 467 452 453 454 455 484 474 479 476 485 486 477 475 470 428 480 464 425 461 465 525 482 429 430 471 483 478 469 472 473 488 523 526</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\app_wifi_read.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 305</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 114</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 432 463 425 478 473 462 458 471 457 431 456 483 472 428 429 430 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 480 426 469 482 464 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\freertos_main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 316</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 104</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 518 463 478 473 506 430 513 426 456 432 465 515 516 431 429 514 507 457 483 472 511 510 519 512 517 462 458 471 469 520 425 521 467 522 508 464 509 466 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 482 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\wifi_globals.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 330</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 126</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 426 494 486 463 453 451 487 431 425 466 474 482 464 459 492 432 495 465 455 476 468 470 460 489 428 423 481 467 452 454 484 479 485 477 475 480 461 491 420 429 430 490 488 457 456 462 458 471 483 478 469 472 473 493</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\wifi_interface.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 337</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 460 426 463 456 489 452 457 432 431 459 492 495 462 458 464 425 461 420 494 493 490 488 491 465 481 466 467 453 454 455 484 474 479 476 485 486 477 468 475 470 428 480 482 429 430 471 483 478 469 472 473 487 451 423</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\Src\user_button.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 329</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 120</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 462 458 478 473 456 457 482 483 472 466 467 452 453 454 455 484 474 479 476 485 486 477 468 475 481 470 428 480 426 431 429 430 471 432 469 465 464 425 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\aws_nucleo_certificates.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 348</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 105</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 431 429 432 430 426</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\time_nucleo_wrapper.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 327</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 521 431 430 518 429 432 510 428 426 425 467 522 508 464 506 519 520 534 532 516 515 517 513 514 535 509 512</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\src\aws_iot_mqtt_client_yield.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 326</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 117</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 517 532 541 531 426 425 507 420 431 492 432 509 503 515 536 429 430 423 537 535 533 534 516 513 514 504 428 494 542 518 521 467 522 508 464 510</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\Third_Parties\aws-sdk\platform\nucleo\network_nucleo_wrapper.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 338</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 106</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 508 464 431 510 466 474 482 507 532 517 522 453 486 463 461 425 531 467 488 465 455 476 468 470 426 492 487 533 429 430 534 516 515 513 432 490 491 481 452 454 484 479 485 477 475 428 480 459 460 535 536 538 518 521 514 509 495 489 457 456 462 458 471 483 478 469 472 473 420 423 537 451 494</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\..\Middlewares\ST\STM32_SPWF01SA\Utils\ring_buffer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 346</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 108</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 463 457 432 425 495 462 458 478 473 471 420 493 426 483 472 491 429 430 428 431 423 489 452 456 469 492 487 494 490 488 465 481 466 467 453 454 455 484 474 479 476 485 486 477 468 475 470 480 482 464 459 461 460 451</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>STM32F401RE-Nucleo-IKS01A2-Debug</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
